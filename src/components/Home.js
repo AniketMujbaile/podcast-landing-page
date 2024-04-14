@@ -14,8 +14,8 @@ const Home = () => {
     <div className="bg-black text-white py-20 px-8">
       <div className="max-w-8xl mx-auto text-center">
         <h1 >
-          <span className="text-8xl font-bold text-gray-500 mb-6">We help grow your Podcast <br /> to attract qualified leads and </span> <br />
-          <span className="text-8xl font-bold text-pink-500 mb-6">Increase Revenue.</span>
+          <span className="text-6xl font-bold text-gray-500 mb-6">We help grow your Podcast <br /> to attract qualified leads and </span> <br />
+          <span className="text-6xl font-bold text-pink-500 mb-6">Increase Revenue.</span>
         </h1>
         <br />
         <br />
